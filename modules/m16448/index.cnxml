@@ -1,0 +1,99 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Manufacture of Portland Cement</title>
+  <metadata>
+  <md:content-id>m16448</md:content-id><md:title>Manufacture of Portland Cement</md:title>
+  <md:abstract>How Portland cement is made.</md:abstract>
+  <md:uuid>c8a7944b-7d42-446c-bc7e-5cac79091ea7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-488567586616">
+      
+      <para id="id8421390">Portland Cement is manufactured by heating calcium carbonate and clay or shale in a kiln. During this process the calcium carbonate is converted to calcium oxide (also known as lime) and the clay minerals decompose to yield dicalcium silicate (Ca<sub>2</sub>SiO<sub>4</sub>, C2S) and other inorganic oxides such as aluminate and ferrite. Further heating melts the aluminate and ferrite phases. The lime reacts with dicalcium silicate to from tricalcium silicate (Ca<sub>3</sub>SiO<sub>5</sub>, C3S). As the mixture is cooled, tricalcium aluminate (Ca<sub>3</sub>Al<sub>2</sub>O<sub>6</sub>, C3A) and tetracalcium aluminoferrite (Ca<sub>4</sub>Al<sub>n</sub>Fe<sub>2-n</sub>O<sub>7</sub>, C4AF) crystallize from the melt and tricalcium silicate and the remaining dicalcium silicate undergo phase transitions. These four minerals (C3S, C2S, C3A, and C4AF) comprise the bulk of most cement mixtures. Initially Portland cement production was carried out in a furnace, however, technological developments such as the rotary kiln have enhanced production capabilities and allowed cement to become one of the most widely used construction materials. </para>
+      <para id="id9209780">Cement plants generally produce various grades of cement by two processes, referred to as either the wet or dry process. The dry process uses a pneumatic kiln system which uses superheated air to convert raw materials to cement, whereas the wet process slurries the raw materials in water in preparation for conversion to cement. Cement manufacturers due to its higher energy efficiency generally favor the dry process, but the wet process tends to produce cement with properties more palatable to the energy services industry. The American Petroleum Institute (API) Class H cement used in energy service applications is produced by the wet process, and thus will be the focus of the following discussion. </para>
+      <para id="id9209784">The cement manufacturing process begins at the quarry (<link target-id="id55555"/>), where limestone formations are ripped and crushed in two crushers to a mean particle size of 4". The quarry formation is not entirely limestone, and no attempt is made to isolate the limestone from the other minerals. On the contrary, the rippers act to blend in the “impurity” minerals as evenly as is feasible while still maintaining an acceptable limestone content so as not to “waste” the formation. This is accomplished by ripping the formation face at a 45° (<link target-id="id55556"/>). The rock is quality controlled via mobile X-ray fluorescence (XRF) spectroscopy (<link target-id="id55557"/>) at the starting point of a mobile covered conveyor belt system (<link target-id="id55558"/>), which transports the material to a dome storage unit (<link target-id="id55559"/>).</para>
+
+
+<figure id="id55555"><media id=" id55555_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 2.jpg" id=" id55555__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Limestone quarry face in Midlothian, TX (Copyright Halliburton Energy Services).</caption></figure>
+
+
+<figure id="id55556"><media id=" id55556_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 2b.jpg" id=" id55556__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Limestone quarry formation, showing the 45° ripping technique (Copyright Halliburton Energy Services). </caption></figure>
+    
+
+<figure id="id55557"><media id=" id55557_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 3b.jpg" id=" id55557__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Mobile crusher and XRF unit (Copyright Halliburton Energy Services).  </caption></figure>
+
+
+<figure id="id55558"><media id=" id55558_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 4b.jpg" id=" id55558__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Covered conveyor belt for limestone transport (Copyright Halliburton Energy Services). </caption></figure>
+
+
+<figure id="id55559"><media id=" id55559_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 5b.jpg" id=" id55559__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Exterior view of dome storage unit with conveyor loading port (Copyright Halliburton Energy Services).  </caption></figure>
+
+
+
+
+<para id="id8422949">The dome storage unit has a capacity of 60 kilotons, and is filled by dispensing the rock from the conveyor at the top of the dome into a pile built in a circular pattern (<link target-id="id55560"/>). The rock is reclaimed from storage via a raking device (<link target-id="id55561"/>) that grates over the pile at the natural angle of material slide. The raked material slides to the base of the raking unit, where a second conveyor system transfers material to either of two limestone buffer bins (<link target-id="id55562"/>), each of which is dedicated to a particular kiln process. There is an additional buffer bin for mill scale from a nearby steel plant, as well as a buffer bin for sand. It is worth noting at this point that the mill scale from the steel plant contains significant levels of boron, which acts as an innate retarder and seems to affect adversely, though not overly severely, the early compressive strength development when compared to cement from other plants.</para>
+
+<figure id="id55560"><media id=" id55560_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 7.jpg" id=" id55560__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Interior view of dome storage unit, illustrating its radial piling (Copyright Halliburton Energy Services).</caption></figure>
+
+
+
+<figure id="id55561"><media id=" id55561_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 8.jpg" id=" id55561__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Raking device for reclaiming stored limestone (Copyright Halliburton Energy Services).</caption></figure>
+
+
+
+<figure id="id55562"><media id=" id55562_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 8b.jpg" id=" id55562__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Buffer bin (Copyright Halliburton Energy Services). </caption></figure>
+
+
+
+
+
+<para id="id8411355">Material leaving the buffer bins is monitored for elemental composition via XRF and feed rates are adjusted for maintaining proper flow of calcium, silicon, aluminum, and iron. The raw materials are carried to ball mills (<link target-id="id55563"/>) for grinding to fine powder, which is then mixed with water. The resulting slurry is then sent to the rotary kiln for burning (<link target-id="id55664"/>), or transformation into cement clinker. </para>
+
+<figure id="id55563"><media id=" id55563_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 9b.jpg" id=" id55563__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Coarse grinder (Copyright Halliburton Energy Services). </caption></figure>
+
+
+
+
+
+<figure id="id55664"><media id="id55664_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 10b.jpg" id="id55664__onlineimage" width="400" print-width="3in"/>
+          </media><caption>A wet rotary kiln (Copyright Halliburton Energy Services).  </caption></figure>
+
+
+
+
+
+
+<para id="id8943085">The kilns are fired to an internal material temperature of 2700 °F (<link target-id="id55565"/>) with a fuel of finely ground coal, natural gas, and/or various waste materials. Around fifty percent of the energy expenditure in the wet kiln process is dedicated to evaporating the water from the slurry, in contrast to the dry process, which spends most of its energy on the calcining process. Since the dry process only requires approximately half the energy of the wet process, it is generally more attractive to cement manufacturers. Unfortunately, the dry process in current use produces poor API Class H cement. A fuller understanding of the differences in cement synthesis via the two processes could lead to the development of a more effective dry synthesis of Class H cements, but that is beyond the scope of this work.</para>
+
+
+
+<figure id="id55565"><media id="id55565_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Cement 11b.jpg" id="id55565__onlineimage" width="400" print-width="3in"/>
+          </media><caption>Interior view of an operational wet kiln (Copyright Halliburton Energy Services).  </caption></figure>
+
+
+
+<para id="id8423794">After the clinker leaves the kiln, it enters a cooler that uses pressurized air to cool the clinker. The energy absorbed by the air in the cooler serves to pre-heat the air for feed into the kiln. The cooled clinker is then taken to storage to await final grinding with approximately five percent gypsum by weight. After grinding to the specified fineness, the final cement powder is pneumatically transferred to storage silos until it is shipped to the customer.</para>
+      <para id="id8405749">Quality control of the clinker and final powder is handled via an automated X-ray diffraction/X-ray fluorescence (XRD/XRF) system, simple wet chemical analyses, simple optical microscopy, and periodic performance tests, including compressive strength and thickening time. This entire process results in the heterogeneous nanocomposite of calcium silicate and aluminate particles, among other materials, which make up a typical cement grain. </para>
+    </section>
+  </content>
+</document>

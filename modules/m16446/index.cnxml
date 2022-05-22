@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hydration Inhibition of Portland Cement</title>
+  <metadata>
+  <md:content-id>m16446</md:content-id><md:title>Hydration Inhibition of Portland Cement</md:title>
+  <md:abstract>Preventing absorption of water in Portland cement.</md:abstract>
+  <md:uuid>499bb1d6-4491-44bf-8ea9-fefc277d42d4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-47430087505">
+      
+      <para id="id10672962">In the oil industry, Portland cement supports boreholes of ever increasing depth. This application requires a high degree of control over the setting kinetics to allow the cement to be pumped down in a liquid form. A number of chemical inhibitors are employed to delay the setting time. The ideal inhibitor for oil well cementing would predictably delay the setting of cement, and then suddenly allow hydration to continue at a rapid rate. </para>
+      <para id="id10137622">A wide range of compounds show set inhibition of the hydration of Portland cement. Some common examples include, sucrose, tartaric acid, gluconic acid δ-lactone, lignosulfonate, and organic phosphonic acids, in particular nitrilo-tris(methylene)phosphonic acid (H<sub>6</sub>ntmp). The structures of these retarders are shown in <link target-id="structures"/>. </para>
+
+<figure id="id4525926"><media id="id4525926_media" alt=""><image mime-type="image/jpg" src="../../media/New inhibit.jpg" id="id4525926__onlineimage" width="500" print-width="5in"/></media><caption>Structural formulae of common cement retarders. (a) sucrose, (b) tartaric acid, (c) gluconic acid d-lactone, (d) sodium lignosulfonate, and (e) nitrilo-tris(methylene)phosphonic acid (H<sub>6</sub>ntmp). </caption></figure>
+
+
+      <para id="id10306726">In spite of the fact that the science of cement hydration inhibition has been investigated for over 40 years, the mechanistic details are still the subject of much speculation. There are five primary models for cement hydration inhibition: calcium complexation, nucleation poisoning, surface adsorption, protective coating/osmotic bursting, and dissolution-precipitation. A summary of the characteristic behavior of selected retarders is shown in <link target-id="id10306748"/>. </para>
+      <table id="id10306748" summary="Summary of the behavior of various hydration retarders.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Retarder</emphasis> </entry>
+              <entry><emphasis effect="bold">Characteristic behavior</emphasis> </entry>
+            </row>
+            <row>
+              <entry>sucrose</entry>
+              <entry> Ca binding, acts directly on silicates, accelerates ettringite formation</entry>
+            </row>
+            <row>
+              <entry>tartaric acid</entry>
+              <entry>acts via calcium complexation and calcium tartrate coating, inhibits ettringite formation</entry>
+            </row>
+            <row>
+              <entry>lignosulfonate</entry>
+              <entry>accelerates ettringite formation, calcium becomes incorporated into the polymer matrix during hydration, forms a diffusion barrier</entry>
+            </row>
+            <row>
+              <entry>nitrilo-tris(methylene)phosphonic acid (H<sub>6</sub>ntmp)</entry>
+              <entry>promotes  Ca dissolution, forms [Ca(H<sub>6</sub>ntmp)], heterogeneous nucleation on aluminates creates a protective coating around the grain</entry>
+            </row>
+          </tbody>
+
+
+
+</tgroup><caption>Summary of the behavior of various hydration retarders.</caption>
+</table>
+      <section id="id-448745633066">
+        <title>Calcium complexation</title>
+        <para id="id8893532">Inhibition by calcium complexation relies largely on the requirement that small calcium oxide/hydroxide templates must form in the pore water of cement pastes before silicate tetrahedra can condense into dimeric and oligomeric silicates to form  C–S–H. Calcium complexation involves either removing calcium from solution by forming insoluble salts, or chelating calcium in solution. Calcium complexation lowers the amount of calcium effectively in solution, delaying the time to Ca(OH)<sub>2</sub> super-saturation and preventing precipitation of the necessary templates. Simple calcium complexation should dramatically increase the amount of  Si(OH)<sub>4</sub> tetrahedra in solution, and indeed this is observed with most retarders. However, if the retarder were acting solely by calcium complexation, then one molecule of retarder would be required per calcium ion in solution, and good inhibitors are used in much smaller quantities, on the order of 0.1-2% by weight of cement. In addition, there is no simple correlation between either calcium binding strength or calcium salt solubility and retarding ability. Yet it has been shown that in pure systems, i.e., of  C3S and C2S, that the lime concentration in solutions is the most important factor in determining the precipitation of C–S–H. Therefore, although calcium complexation must play some role in inhibition, other mechanisms of inhibition must be at work as well. An example of a retarder that operates primarily through calcium complexation is tartaric acid, however, the formation of insoluble calcium tartrate on cement grains suggest that dissolution/precipitation occurs in addition (<link target-id="id10362433"/>). </para>
+
+           <figure id="id10362433"><media id="id5783894" alt=""><image src="../../media/pool.png" mime-type="image/png" width="300" print-width="3.5in"/></media>
+        
+          <caption>Schematic representation of cement hydration in the presence of tartaric acid. The aluminate (and aluminate ferrate) phases (shown in purple) surround the silicate phases (C3S and C2S). Tartaric acid adsorbs onto the aluminum surfaces and reacts with calcium ions from gypsum to deposit a thick calcium tartrate coating on the cement grain. Adapted from M. Bishop, PhD Thesis, Rice University, 2001.
+</caption></figure>
+
+      </section>
+      <section id="id-934402276909">
+        <title>Nucleation poisoning</title>
+        <para id="id9865156">As with calcium complexation, nucleation poisoning must rely on the formation of small calcium oxide/hydroxide templates in the pore water of cement pastes before silicate tetrahedra can condense into dimeric and oligomeric silicates to form C–S–H. Inhibition by nucleation poisoning is where the retarder blocks the growth of C–S–H or Ca(OH)<sub>2</sub> crystals through inhibiting agglomerates of calcium ions from forming the necessary hexagonal pattern. Nucleation inhibitors act on the surface of small clusters, therefore, less than one molecule of retarder per calcium ion is required to produce dramatic results. This type of inhibition also results in an increase in the amount of silicate ions in solution, as condensation of silicate chains onto calcium oxide templates to form the C–S–H is inhibited. As a retarder sucrose acts via nucleation poisoning/surface adsorption. </para>
+      </section>
+      <section id="id-420451989201">
+        <title>Surface adsorption</title>
+        <para id="id10672991">Surface adsorption of inhibitors directly onto the surface of either the anhydrous or (more likely) the partially hydrated mineral surfaces blocks future reactions with water. In addition, if such inhibitors are large and anionic, then they produce a negative charge at the surface of the cement grains, causing the grains to repel each other thereby reducing inter-particle interactions. Lignosulfonates are typical of retarders that act via surface adsorption. </para>
+      </section>
+      <section id="id-214562978426">
+        <title>Protective coating/osmotic bursting</title>
+        <para id="id10673010">The formation of a protective coating with its subsequent bursting due to the build up of osmotic pressure was originally posited to explain the existence of the induction period in  C3S and cement hydration, however it may be applied to inhibition in general. In this mechanism, a semi-permeable layer at the surface of the cement grain forms and slows down the migration of water and lengthens the induction period. Osmosis will drive water through the semi-permeable membrane towards the unhydrated mineral, and eventually the flow of water creates higher pressure inside the protective coating and the layer bursts. Hydration is then allowed to continue at a normal rate. </para>
+      </section>
+      <section id="id-676624676502">
+        <title>Dissolution-precipitation</title>
+        <para id="id9815226">A detailed study of several retarders (in particular the organic phophonates) has shown that the actually accelerate certain stages of the hydration process. This is unexpected since the phosphonates have been termed “super retarders,” due to their increased effect on cement hydration relative to the effect of conventional retarders. So how is it that a retarder can be so efficient at hydration inhibition at the same time as accelerating the process? The ability of phosphonates to retard cement setting is due to the lengthening the induction period, without slowing down the time it takes for setting to occur (once the acceleratory period has begun). </para>
+        <para id="id9815253">Phosphonates are known to complex calcium and other M<sup>2+</sup> cations, poison the nucleation and growth of barium sulfate crystals, and inhibit the hydration of Fe<sub>2</sub>O<sub>3</sub> and Al<sub>2</sub>O<sub>3</sub> surfaces via direct surface adsorption, thus it was assumed that with regard to cement hydration inhibition occurred by one of these mechanism. However, the mechanism by which phosphonates inhibit cement hydration consists of two steps. First dissolution, whereby calcium is extracted from the surface of the cement grains (<link target-id="morph"/>a) exposing the aluminum rich surface to enhanced (catalyzes) hydration and ettringite formation (<link target-id="morph"/>b). Second precipitation, whereby the soluble calcium-phosphonate oligomerizes either in solution or on the hydrate surface to form an insoluble polymeric Ca-phosphonate (<link target-id="morph"/>c). The Ca-phosphonate material binds to the surface of the cement grains inhibiting further hydration by acting as a diffusion barrier to water as well as a nucleation inhibitor. </para>
+
+<figure id="morph"><media id="id4007097" alt=""><image src="../../media/morph.png" mime-type="image/png" width="400" print-width="4.5in"/></media>
+
+<caption>Schematic representation of the H<sub>6</sub>ntmp inhibition of cement showing (a) the phosphonic acid promoting calcium dissolution, allowing water and gypsum to react with the aluminum phases at the surface of the cement grain, (b) the formation of a meta-stable calcium phosphonate, which precipitates onto the hydrating aluminate surfaces (c), forming a barrier to water and sulfate diffusion. Adapted from M. Bishop, PhD Thesis, Rice University, 2001.
+</caption></figure>
+
+      </section>
+    </section>
+    <section id="id-5103092254">
+        <title>Bibliography</title><list id="eip-650"><item>N. Thomas and J. Birchall, <emphasis effect="italics">Cement and Concrete Research</emphasis>, 1983, <emphasis effect="bold">13</emphasis>, 830.</item>
+
+            <item>D. Double, <emphasis effect="italics">Phil. Trans. R. Soc. London</emphasis>, 1983, <emphasis effect="bold">A30</emphasis>, 53.</item>
+
+            <item>M. Bishop, S. G. Bott, and A. R. Barron, <emphasis effect="italics">Chem. Mater.</emphasis>, 2003, <emphasis effect="bold">15</emphasis>, 3074. </item>
+
+            <item>M. Bishop and A. R. Barron, <emphasis effect="italics">Ind. Eng. Chem. Res.</emphasis>, 2006, <emphasis effect="bold">45</emphasis>, 7042.</item>
+          </list>
+    </section>
+  </content>
+</document>

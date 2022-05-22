@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chemical Composition of Portland Cement</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m16445</md:content-id>
+  <md:title>Chemical Composition of Portland Cement</md:title>
+  <md:abstract>Chemical composition of Portland cement.</md:abstract>
+  <md:uuid>d6150b4e-f8a1-434c-8402-ee1dfadf72c2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-0761419578765">
+      
+      <para id="id9804111">There are four chief minerals present in a Portland cement grain: tricalcium silicate (Ca<sub>3</sub>SiO<sub>5</sub>), dicalcium silicate (Ca<sub>2</sub>SiO<sub>4</sub>), tricalcium aluminate (Ca<sub>3</sub>Al<sub>2</sub>O<sub>5</sub>) and calcium aluminoferrite
+(Ca<sub>4</sub>Al<sub>n</sub>Fe<sub>2-n</sub>O<sub>7</sub>). The formula of each of these minerals can be broken down into the basic calcium, silicon, aluminum and iron oxides (<link target-id="id9965167"/>). Cement chemists use abbreviated nomenclature based on oxides of various elements to indicate chemical formulae of relevant species, i.e., C = CaO, S = SiO<sub>2</sub>, A = Al<sub>2</sub>O<sub>3</sub>, F = Fe<sub>2</sub>O<sub>3</sub>. Hence, traditional cement nomenclature abbreviates each oxide as shown in <link target-id="id9965167"/>. </para>
+ 
+     <table id="id9965167" summary="Chemical formulae and cement nomenclature for major constituents of Portland cement.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Mineral</emphasis> </entry>
+              <entry><emphasis effect="bold">Chemical formula</emphasis></entry>
+              <entry><emphasis effect="bold">Oxide composition</emphasis> </entry>
+              <entry><emphasis effect="bold">Abbreviation</emphasis> </entry>
+            </row>
+            <row>
+              <entry>Tricalcium silicate (alite)</entry>
+              <entry>
+
+Ca<sub>3</sub>SiO<sub>5</sub>
+</entry>
+              <entry>
+
+3CaO.SiO<sub>2</sub>
+
+</entry>
+              <entry>C3S</entry>
+            </row>
+
+
+
+            <row>
+              <entry>Dicalcium silicate (belite)</entry>
+              <entry>
+
+Ca<sub>2</sub>SiO<sub>4</sub>
+
+</entry>
+              <entry>
+
+2CaO.SiO<sub>2</sub>
+
+</entry>
+
+
+              <entry>C2S</entry>
+            </row>
+
+
+
+            <row>
+              <entry>Tricalcium aluminate</entry>
+              <entry>
+
+Ca<sub>3</sub>Al<sub>2</sub>O<sub>4</sub>
+
+</entry>
+              <entry>
+
+3CaO.Al<sub>2</sub>O<sub>3</sub>
+</entry>
+              <entry>C3A</entry>
+            </row>
+
+
+
+            <row>
+              <entry>Tetracalcium aluminoferrite</entry>
+              <entry>
+
+Ca<sub>4</sub>Al<sub>n</sub>Fe<sub>2-n</sub>O<sub>7</sub>
+</entry>
+   
+
+           <entry>
+4CaO.Al<sub>n</sub>Fe<sub>2-n</sub>O<sub>3</sub>
+</entry>
+
+
+              <entry>C4AF</entry>
+            </row>
+          </tbody>
+   
+
+
+
+
+
+
+</tgroup><caption>Chemical formulae and cement nomenclature for major constituents of Portland cement. Abbreviation notation: C = CaO, S = SiO<sub>2</sub>, A = Al<sub>2</sub>O<sub>3</sub>, F = Fe<sub>2</sub>O<sub>3</sub>. </caption>
+</table>
+      
+      <para id="id9660697">The composition of cement is varied depending on the application. A typical example of cement contains 50–70% C3S, 15–30% C2S, 5–10% C3A, 5–15% C4AF, and 3–8% other additives or minerals (such as oxides of calcium and magnesium). It is the hydration of the calcium silicate, aluminate, and aluminoferrite minerals that causes the hardening, or setting, of cement. The ratio of C3S to C2S helps to determine how fast the cement will set, with faster setting occurring with higher C3S contents. Lower C3A content promotes resistance to sulfates. Higher amounts of ferrite lead to slower hydration. The ferrite phase causes the brownish gray color in cements, so that “white cements” (i.e., those that are low in C4AF) are often used for aesthetic purposes. </para>
+      <para id="id10020835">The calcium aluminoferrite (C4AF) forms a continuous phase around the other mineral crystallites, as the iron containing species act as a fluxing agent in the rotary kiln during cement production and are the last to solidify around the others. <link target-id="grain"/> shows a typical cement grain. </para>
+
+<figure id="grain"><media id="id7055419" alt=""><image src="../../media/Fig15.jpg" mime-type="image/jpg" width="400" print-width="4in"/></media>
+
+<caption>A pictorial representation of a cross-section of a cement grain. Adapted from Cement Microscopy, Halliburton Services, Duncan, OK.
+</caption></figure>
+
+      <para id="id9153309">It is worth noting that a given cement grain will not have the same size or even necessarily contain all the same minerals as the next grain. The heterogeneity exists not only within a given particle, but extends from grain to grain, batch-to-batch, plant to plant. </para>
+    </section>
+    <section id="id-415432533183">
+      <title>Bibliography</title><list id="eip-886"><item>H. F. W. Taylor, <emphasis effect="italics">Cement Chemistry</emphasis>, 2nd Ed., Academic Press, London (1997).</item>
+        </list>
+    </section>
+  </content>
+</document>

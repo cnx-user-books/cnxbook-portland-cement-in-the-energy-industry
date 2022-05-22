@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An Introduction to Portland Cement</title>
+  <metadata>
+  <md:content-id>m16443</md:content-id><md:title>An Introduction to Portland Cement</md:title>
+  <md:abstract>An introduction to the properties and chemistry of Portland cement.</md:abstract>
+  <md:uuid>526db3c9-fbcb-4bbe-9099-8e34de0a6027</md:uuid>
+</metadata>
+  <content>
+    <section id="id-0257275627909">
+      
+      <para id="id9055226">Portland Cement (or simply “cement”) is the single most commonly used building material in the world today. The manufacture of cement in the United States was in 2002 a 103.8 million metric ton, $8.6 billion industry. Worldwide production is at present in excess of 2.2 billion metric tons per year.</para>
+      <para id="id9405885">The origins of cement date back to well over 5000 years ago when the Egyptians developed mortars composed of lime (CaO) and gypsum (CaSO<sub>4</sub>.2H<sub>2</sub>O) to hold together the enormous stone blocks of the pyramids. Three thousand years later, between 300 BC and 476 AD, the Romans developed the first durable concrete, with a cementitious matrix of lime and volcanic ash (chiefly SiO<sub>2</sub>) from Mount Vesuvius, and used it to build the Coliseum and the huge Basilica of Constantine. The Romans also employed chemical admixtures in their cements, such as animal fat, milk, and blood, perhaps to improve the workability of their pastes. Chemicals found in these fluids are still used today to modify the setting of cement. </para>
+      <para id="id7859361">The use of natural cement, consisting of mixtures of lime and clay (aluminum silicates), emerged in England in the late 18th century. Joseph Aspdin obtained the first patent on cement manufacture in 1824. Aspdin carefully proportioned amounts of lime and clay, then pulverized the mixture and burned it in a furnace. He named his mixture Portland cement, because the color of the powder resembled the color of the rock quarries on the Isle of Portland. The Unites States began producing its own Portland cement in the 1870’s. Technological developments such as the rotary kiln enhanced production capabilities and allowed cement to become one of the most widely used construction materials. </para>
+      <para id="id7859438">Cement production may be classified by application into two primary groups: construction and energy services. The construction applications for cementing consume the lion’s share of cement manufactured world-wide, but the cement produced for energy services applications is an integral part of meeting the world’s energy needs and requires tighter quality control standards to meet that industry’s higher demands on control of the rheological properties of the fluid slurry state, the solid state, and especially the transition from the former state to the latter, or the setting process. Applications relating to the energy services industry are the primary focus of this work. Additionally, cement may also become central to efforts in nuclear waste management by locking radioactive material within the cementitious matrix, where rates of diffusion of waste out of the cement serve as the dominant concern.</para>
+    </section>
+    <section id="id-368234356945">
+      <title>Bibliography</title><list id="eip-337"><item>M. Gadalla, <emphasis effect="italics">Pyramid Illusions</emphasis>, Bastet Publishing, Erie, Pennsylvania (1997). </item>
+         <item>J. Adam, <emphasis effect="italics">Roman Building: Materials and Techniques</emphasis>, Bloomington, Indiana, University Press (1994). </item>
+         <item>R. W. Lesley, J. Lober, G. Bartlett, <emphasis effect="italics">History of the Portland Cement Industry in the United States</emphasis>, Ayer Company Publishers, Inc. (1972).</item>
+        </list>
+    </section>
+  </content>
+</document>

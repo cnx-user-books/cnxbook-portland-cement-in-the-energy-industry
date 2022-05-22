@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Application of Portland Cement in the Energy Services Industry</title>
+  <metadata>
+  <md:content-id>m16444</md:content-id><md:title>Application of Portland Cement in the Energy Services Industry</md:title>
+  <md:abstract>How Portland cement is used in the oil industry.</md:abstract>
+  <md:uuid>fdf20769-4331-4bd9-9227-acfafca1e914</md:uuid>
+</metadata>
+  <content>
+    <section id="id-00134855273837">
+      
+      <para id="id4791557">Portland Cement was first used in the energy services industry in 1903 to isolate the oil-containing region of the earth from down-hole water, a process modernly referred to as zonal isolation. The technique of oil well cementing was soon developed (<link target-id="oilwell"/>). After the primary hole is drilled, a steel casing, through which the oil will later flow, is placed inside. Drilling mud is used to assist in the actual drilling. The cement is pumped down the steel casing to the bottom of the well and then back up through the free annular space between the casing and the well, where it serves to bond the casing to the rock formation and to prevent fluids from moving from one formation to another (hence the term zonal isolation). Displacement fluids, such as fresh water, sea water, and weak acid solutions, are used to push the cement out of the casing. To avoid damage to the pumping equipment used to place the cement slurry, the cement must remain a fluid state for several hours while it is pumped into place; to avoid wasting valuable rig time, the cement should set shortly after being placed. </para>
+
+<figure id="oilwell" orient="vertical"><media id="id43136882" alt=""><image src="../../media/OilWell.png" mime-type="image/png" height="350" print-width="3.5in"/></media>
+
+<caption>A schematic of the oil well cementing process.
+</caption></figure>
+
+      <para id="id6243943">In 1929, Pacific Portland Cement Company developed the first retarded cement, which allowed cement to be used in deeper oil wells than previously possible. The construction of the first bulk cement production stations in the early 1940’s made the use of cement additives more practical. The desire for deeper wells drove the development of new retarders that could predictably delay cement setting for longer periods of time than traditional retarders.</para>
+      <para id="id5458135">Today, oil wells are commonly 2 - 3 miles deep, at which depth temperatures of 180 °C is not uncommon. Cement pumped to the bottom of these wells is subject to pressures approaching 150 MPa. Cement must remain as thin as possible under these conditions, yet begin to set and develop strength soon after it is in place so that oil drilling can continue. The demanding needs of the industry have sparked a plethora of empirical investigations into the effect of different additives on cement setting. More recently, investigations into the mechanisms of cement hydration and hydration inhibition have begun in an attempt to develop a more rational methodology for the design of cement additives.</para>
+      <para id="id6667598">As mentioned above, in oil well cementing it is desirable to pump a watery cement slurry down the oil well and then have this thin mixture set as quickly as possible once it is in place. <link target-id="plots"/> shows hydration curves for regular cement hydration, and hydration with different types of additives. Several additives have been developed to control the hydration and setting of cement with varying success. In this study, reactions of four different hydration inhibitors with cement and the main mineral phases in cement have been characterized to gain insight into the different mechanisms of cement hydration inhibition and to determine which mechanisms produce more favorable cement setting behavior.</para>
+
+<figure id="plots" orient="vertical"><media id="id43205998" alt=""><image src="../../media/idealplots.png" mime-type="image/png" width="450" print-width="5in"/></media>
+
+<caption>Cement hydration behavior without additives (black), with sucrose (red), with near ideal retarders such as the phosphonates (green) and the behavior that is desired by the oil industry (blue).
+</caption></figure>
+
+      <section id="id-385034634536">
+        <title>API cement classifications</title>
+        <para id="id6897663">API cement is manufactured specifically to meet the needs of the oil industry. The American Petroleum Institute (API) established a set of standards that a Portland cement must meet to be considered an API cement. These standards were set so that the oil industry may obtain a product that will perform with some degree of consistency.</para>
+        <section id="id-15667389627">
+          <title>Class A</title>
+          <para id="id7592620">Intended for use from surface to 6,000 feet when special properties are not required. The properties and performance of Class A cement may be tailored with additives to meet special requirements beyond basic performance. It is similar to ASTM (American Society for Testing and Materials) Type I construction cement. (Normal density = 15.6 ppg)</para>
+        </section>
+        <section id="id-769191616161">
+          <title>Class B</title>
+          <para id="id5729700">Intended for use from surface to 6,000 feet when conditions require moderate to high sulfate-resistance. Class B is similar to ASTM Type II construction cement. (Normal density = 15.6 ppg)</para>
+        </section>
+        <section id="id-588707906624">
+          <title>Class C</title>
+          <para id="id7234009">Intended for use from surface to 6,000 feet when conditions require high early strength. Class C is similar to ASTM Type III cement and available in ordinary, moderate and high sulfate resistance types. (Normal density = 14.8 ppg)</para>
+        </section>
+        <section id="id-604227378872">
+          <title>Class G</title>
+          <para id="id4834654">Intended for use from surface to 8,000 feet as basic cement, as manufactured, or it can be modified with additives to cover a full range of well depths and temperatures. No additions other than calcium sulfate or water, or both, shall be inter-ground or blended with the clinker during manufacture of Class G Cement. Class G cement is available in moderate and high sulfate-resistance types. Class G is similar to ASTM Type IV cements. (Normal density = 15.8 ppg)</para>
+        </section>
+        <section id="id-304036808775">
+          <title>Class H</title>
+          <para id="id6407312">Intended for use from surface to 8,000 feet as basic cement, as manufactured, or it can be modified with additives to cover a full range of well depths and temperatures. No additions other than calcium sulfate or water, or both, shall be inter-ground or blended with the clinker during manufacture of Class H Cement. Available in moderate and high sulfate-resistance types. Class H is similar to ASTM Type IV cements. (Normal density = 16.5 ppg)</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-783997215696">
+      <title>Bibliography</title><list id="eip-770"><item>D. K. Smith, <emphasis effect="italics">Cementing</emphasis>, Society of Petroleum Engineers, Richardson, Texas (1990).</item>
+        <item>H. F. W. Taylor, <emphasis effect="italics">Cement Chemistry</emphasis>, 2nd Ed., Academic Press, London (1997).</item>
+       </list>
+    </section>
+  </content>
+</document>

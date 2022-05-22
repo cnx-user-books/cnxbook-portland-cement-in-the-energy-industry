@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Hydration of Portland Cement</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m16447</md:content-id>
+  <md:title>Hydration of Portland Cement</md:title>
+  <md:abstract>How Portland cement absorbs water.</md:abstract>
+  <md:uuid>2dbbf7c5-c045-4d8b-b07b-ee668a02223a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-446875310165">
+      
+      <para id="id7446225">The addition of water to dry cement powder results in a thin cement slurry that can be easily manipulated and cast into different shapes. In time, the slurry sets and develops strength through a series of hydration reactions. Hydration of cement is not linear through time, it proceeds very slowly at first, allowing the thin mixture to be properly placed before hardening. The chemical reactions that cause the delay in hardening are not completely understood; however, they are critical to developing a rational methodology for the control of cement setting. </para>
+      <section id="id-625700229061">
+        <title>Tri- and di-calcium silicates</title>
+        <para id="id7446233">The tri- and di-calcium silicates (C3S and C2S, respectively) comprise over 80% by weight of most cement. It is known that C3S is the most important phase in cement for strength development during the first month, while C2S reacts much more slowly, and contributes to the long-term strength of the cement. Both the silicate phases react with water as shown below to form calcium hydroxide and a rigid calcium-silicate hydrate gel, C–S–H, <link target-id="eip-1411"/> and <link target-id="eip-1412"/>.</para>
+
+<equation id="eip-1411"><media id="id1411_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq16.jpg" id="id1411__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+<equation id="eip-1412"><media id="id1412_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq17.jpg" id="id1412__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+
+        <para id="id6871301">The detailed structure of C–S–H is not completely known, however it is generally agreed upon that it consists of condensed silicate tetrahedra sharing oxygen atoms with a central, calcium hydroxide-like CaO<sub>2</sub> layer. Calcium hydroxide consists of hexagonal layers of octahedrally coordinated calcium atoms and tetrahedrally coordinated oxygen atoms. Taylor has proposed that the structure is most similar to either Tobermorite or Jennite, both of which share a skeletal silicate chain <link target-id="structure1"/>.</para>
+
+<figure id="structure1" orient="vertical"><media id="id2766318" alt=""><image src="../../media/Fig16.jpg" mime-type="image/jpg" width="250" print-width="3in"/></media>
+
+<caption>Schematic representation of Tobermorite, viewed along a polysilicate chain. Silicate ions either share oxygen atoms with a central CaO<sub>2</sub> core or bridge silicate tetrahedra. Interlayer calcium ions and water molecules are omitted for clarity.
+</caption></figure>
+
+        <para id="id6412180">Although the precise mechanism of  C3S hydration is unclear, the kinetics of hydration is well known. The hydration of the calcium silicates proceeds via four distinct phases as shown in <link target-id="heatplot"/>. The first 15-20 minutes, termed the pre-induction period (<link target-id="heatplot"/>a), is marked by rapid heat evolution. During this period calcium and hydroxyl ions are released into the solution. The next, and perhaps most important, phase is the induction period (<link target-id="heatplot"/>b), which is characterized by very slow reactivity. During this phase, calcium oxide continues to dissolve producing a pH near 12.5. The chemical reactions that cause the induction period are not precisely known; however, it is clear that some form of an activation barrier must be overcome before hydration can continue. It has been suggested that in pure C3S, the induction period may be the length of time it takes for C–S–H to begin nucleation, which may be linked to the amount of time required for calcium ions to become supersaturated in solution. Alternatively, the induction period may be caused by the development of a small amount of an impermeable calcium-silicon-hydrate (C–S–H) gel at the surface of the particles, which slows down the migration of water to the inorganic oxides. The initial Ca/Si ratio at the surface of the particles is near 3. As calcium ions dissolve out of this C–S–H gel, the Ca/Si ratio in the gel becomes 0.8-1.5. This change in Ca/Si ratio corresponds to a change in gel permeability, and may indicate an entirely new mechanism for C–S–H formation. As the initial C–S–H gel is transformed into the more permeable layer, hydration continues and the induction period gives way to the third phase of hydration, the acceleratory period (<link target-id="heatplot"/>c). </para>
+
+<figure id="heatplot" orient="vertical"><media id="id4280915" alt=""><image src="../../media/Fig17.jpg" mime-type="image/jpg" width="400" print-width="4in"/></media>
+
+<caption>Hydration of C3S over time: (a) the preinduction period, (b) the induction, (c) period the acceleratory period, and (d) the deceleratory period. </caption></figure>
+
+        <para id="id6948452">After ca. 3 hours of hydration, the rate of C–S–H formation increases with the amount of C–S–H formed. Solidification of the paste, called setting, occurs near the end of the third period. The fourth stage (<link target-id="heatplot"/>d) is the deceleratory period in which hydration slowly continues hardening the solid cement until the reaction is complete. The rate of hydration in this phase is determined either by the slow migration of water through C–S–H to the inner, unhydrated regions of the particles, or by the migration of H<sup>+</sup> through the C–S–H to the anhydrous CaO and SiO<sub>2</sub>, and the migration of Ca<sup>2+</sup> and Si<sup>4+</sup>  to the OH<sup>-</sup> ions left in solution. </para>
+      </section>
+      <section id="id-85324573412">
+        <title>Calcium aluminate and ferrite</title>
+        <para id="id7091723">In spite of the fact that the aluminate and ferrite phases comprise less than 20% of the bulk of cement, their reactions are very important in cement and dramatically affect the hydration of the calcium silicate phases, see below. Relative to C3S, the hydration of C3A is very fast. In the absence of any additives, C3A reacts with water to form two intermediate hexagonal phases,  C2AH8 and C4AH13, <link target-id="eip-1413"/>. The structure of C2AH8 is not precisely known, but C4AH13 has a layered structure based on the calcium hydroxide structure, in which one out of every three Ca<sup>2+</sup> is replaced by either an Al<sup>3+</sup> or Fe<sup>3+</sup> with an  OH<sup>-</sup> anion in the interlayer space to balance the charge. All of the aluminum in C4AH13 is octahedral. C2AH8 and  C4AH13 are meta-stable phases that spontaneously transform into the fully hydrated, thermodynamically stable cubic phase, C3AH6, <link target-id="eip-1414"/>. In C3A, aluminum coordination is tetrahedral. The structure consists of rings of aluminum tetrahedra linked through bridging oxygen atoms, which slightly distorts the aluminum environment. In C3AH6, aluminum exists as highly symmetrical, octahedral Al(OH)<sub>6</sub> units.</para>
+
+
+
+
+
+
+
+<equation id="eip-1413"><media id="id1413_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq18.jpg" id="id1413__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+<equation id="eip-1414"><media id="id1414_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq19.jpg" id="id1414__onlineimage" width="525" print-width="4.75in"/>
+</media>
+</equation>
+
+
+
+
+
+     
+        <para id="id7523217">If the very rapid and exothermic hydration of C3A is allowed to proceed unhindered in cement, then the setting occurs too quickly and the cement does not develop strength. Therefore, gypsum [calcium sulfate dihydrate, CaSO<sub>4</sub>⋅2(H<sub>2</sub>O)] is added to slow down the C3A hydration. In the presence of gypsum, tricalcium aluminate forms ettringite, [Ca<sub>3</sub>Al(OH)<sub>6</sub>.12(H<sub>2</sub>O)]<sub>2</sub>.(SO<sub>4</sub>)<sub>3</sub>.2(H<sub>2</sub>O), <link target-id="eip-1415"/>, which can also be written as C3A.3(CaSO<sub>4</sub>).32(H<sub>2</sub>O). Ettringite grows as columns of calcium, aluminum and oxygen surrounded by water and sulfate ions, as shown in <link target-id="balls"/>.</para>
+
+
+<equation id="eip-1415"><media id="id1415_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq20.jpg" id="id1415__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+<figure id="balls" orient="vertical"><media id="id6517926" alt=""><image src="../../media/Fig18.jpg" mime-type="image/jpg" width="425" print-width="4in"/></media>
+
+<caption>Ettringite columns (a) consisting of octahedral aluminum, tetrahedral oxygen, and 8-coordinate calcium. The coordination sphere of each calcium is filled by water and sulfate ions. The packing of the columns (b) represented by large circles, the smaller circles represent channels containing with water and sulfate ions.
+</caption></figure>
+
+        <para id="id6872800">Tetracalcium aluminoferrite (C4AF) reacts much like  C3A, i.e., forming ettringite in the presence of gypsum. However, hydration the ferrite phase is much slower than hydration of C3A, and water is observed to bead up on the surface of C4AF particles. This may be due to the fact that iron is not as free to migrate in the pastes as aluminum, which may cause the formation of a less permeable iron rich layer at the surface of the  C4AF particles and isolated regions of iron hydroxide. In cement, if there is insufficient gypsum to convert all of the C4AF to ettringite, then an iron-rich gel forms at the surface of the silicate particles which is proposed to slow down their hydration.</para>
+      </section>
+      <section id="id-270971940533">
+        <title>Portland cement</title>
+        <para id="id6832934">The hydration of cement is obviously far more complex than the sum of the hydration reactions of the individual minerals. The typical depiction of a cement grain involves larger silicate particles surrounded by the much smaller C3A and C4AF particles. The setting (hydration) of cement can be broken down into several distinct periods. The more reactive aluminate and ferrite phases react first, and these reactions dramatically affect the hydration of the silicate phase. Scrivener and Pratt used TEM to develop the widely accepted model depicted in <link target-id="hydration"/>. </para>
+        <para id="id7063385">In the first few minutes of hydration (<link target-id="hydration"/>b), the aluminum and iron phases react with gypsum to form an amorphous gel at the surface of the cement grains and short rods of ettringite grow. After this initial period of reactivity, cement hydration slows down and the induction period begins. After about 3 hours of hydration, the induction period ends and the acceleratory period begins. During the period from 3 to 24 hours, about 30% of cement reacts to form calcium hydroxide and  C–S–H. The development of C–S–H in this period occurs in 2 phases. After ca. 10 hours hydration (<link target-id="hydration"/>c), C3S has produced “outer C–S–H,” which grows out from the ettringite rods rather than directly out from the surface of the C3S particles. Therefore, in the initial phase of the reaction, the silicate ions must migrate through the aluminum and iron rich phase to form the C–S–H. In the latter part of the acceleratory period, after 18 hours of hydration, C3A continues to react with gypsum, forming longer ettringite rods (<link target-id="hydration"/>d). This network of ettringite and  C–S–H appears to form a “hydrating shell” about 1 µm from the surface of anhydrous  C3S. A small amount of “inner  C–S–H” forms inside this shell. After 1–3 days of hydration, reactions slow down and the deceleratory period begins (<link target-id="hydration"/>e). C3A reacts with ettringite to form some monosulfate. “Inner  C–S–H” continues to grow near the C3S surface, narrowing the 1 µm gap between the “hydrating shell” and anhydrous C3S. The rate of hydration is likely to depend on the diffusion rate of water or ions to the anhydrous surface. After 2 weeks hydration (<link target-id="hydration"/>f), the gap between the “hydrating shell” and the grain is completely filled with C–S–H. The original, “outer C–S–H” becomes more fibrous.</para>
+
+<figure id="hydration" orient="vertical"><media id="id8271221" alt=""><image src="../../media/Fig19.jpg" mime-type="image/jpg" width="500" print-width="5in"/></media>
+
+<caption>Schematic representation of anhydrous cement (a) and the effect of hydration after (b) 10 minutes, (c) 10 hours, (d) 18 hours, (e) 1–3 days, and (f) 2 weeks. Adapted from M. Bishop, PhD Thesis, Rice University, 2001.
+</caption></figure>
+
+      </section>
+    </section>
+    <section id="id-205050222654">
+       <title>Bibliography</title><list id="eip-592"><item>H. F. W. Taylor, <emphasis effect="italics">Cement Chemistry</emphasis>, 2nd Ed., Academic Press, London (1997).</item>
+            <item>H. F. W. Taylor, <emphasis effect="italics">J. Am. Ceram. Soc.</emphasis>, 1986, <emphasis effect="bold">69</emphasis>, 464. </item>
+            <item>V. S. Ramanchandran, R.F. Feldman, and J. J. Beaudoin, <emphasis effect="italics">Concrete Science</emphasis>, Heyden and Son Ltd., Philadelphia, PA, 1981.</item>
+            <item>H. N. Stein and J. Stevels, <emphasis effect="italics">J. App. Chem.</emphasis>, 1964, <emphasis effect="bold">14</emphasis>, 338. </item>
+            <item>M. Grutzeck, S. Kwan, J. Thompson, and A. Benesi, <emphasis effect="italics">J. Mater. Sci. Lett.</emphasis>, 1999, <emphasis effect="bold">18</emphasis>, 217.</item>
+            <item>V. S. Ramachandran, <emphasis effect="italics">Concrete Admixtures Handbook</emphasis>, 2nd Edition, Noyes Publications, New Jersey (1995).</item>
+            <item>K. L. Scrivener and P. L. Pratt, <emphasis effect="italics">Mater. Res. Soc. Symp. Proc.</emphasis>, 1984, <emphasis effect="bold">31</emphasis>, 351.</item>
+         </list>
+    </section>
+  </content>
+</document>
